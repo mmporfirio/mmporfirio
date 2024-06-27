@@ -2,7 +2,7 @@
 <h4><b>About me</b></h4>
 <p align="left">I'm a tech enthusiast whose passion ignited during my school days, leading to expertise in Java, Javascript, and SQL. I take pleasure in creating innovative solutions that genuinely help people. Demonstrating my commitment to staying at the forefront of technology, I continuously update my skills, particularly embracing new technologies. Actually, I'm working with React, Typescript and NodeJs. I believe I can contribute to a company's success with my technical skills and my passion for continuous learning.</p>
 
-- 🌱 I’m currently learning **Nest.js, Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 🔭 I’m currently working on **iGreen Energy**
 
